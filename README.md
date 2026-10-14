@@ -33,6 +33,7 @@ Move beyond static dashboards and manual SQL writing. These state-of-the-art pla
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Reference Architecture: Building Open AI Analytics](#️-reference-architecture-building-open-ai-analytics)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Data Governance](#️-disclaimer--data-governance)
 
@@ -158,6 +159,27 @@ Contributions are warmly welcomed! Help make this the most up-to-date and author
 2. 🌿 Create a descriptive branch: `git checkout -b add-tool-name`.
 3. 📝 Add or update an entry in [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Powered-Analytics-Platform/README.md) following the existing tabular or open-source list format (include specific pricing, free tier limits, star badges, and links).
 4. 🚀 Submit a Pull Request with a short summary of the product or project.
+
+---
+
+## 💖 Support & Sponsorship
+
+A huge **thank you** to everyone exploring, contributing to, and building with this ecosystem! 🙌
+
+If you find this curated directory useful for your work, team, or projects, please consider supporting the project:
+- ⭐ **Star this repository** to help other developers and data teams discover it on GitHub.
+- 🍴 **Fork and contribute** tools, benchmarks, and updates to keep it fresh and comprehensive.
+- 📢 **Share it** with your network across X/Twitter, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee / Sponsor on GitHub**: Support ongoing research and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
 
 ---
 
