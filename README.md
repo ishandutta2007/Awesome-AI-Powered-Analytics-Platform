@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-Analytics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Powered-Analytics-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-Analytics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Powered-Analytics-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-Analytics-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Powered-Analytics-Platform?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-Analytics-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,54 +66,54 @@ The following enterprise platforms provide managed, cloud-native conversational 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source projects for self-hosting, Text-to-SQL agents, semantic layers, and conversational business intelligence. Repositories are strictly sorted descending by **GitHub Star Count**.
+Explore the top open-source projects for self-hosting, Text-to-SQL agents, semantic layers, and conversational business intelligence. Repositories are strictly sorted descending by **GitHub Stars_Count**.
 
-- **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+- **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   *License: AGPL-3.0* | Leading open-source operational analytics, monitoring, and interactive visualization platform with AI/LLM dashboard assistants, natural language query generation, and 150+ data connectors.
 
-- **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+- **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
   *License: Apache-2.0* | Enterprise-grade modern data exploration and business intelligence web application featuring a rich no-code chart builder, SQL IDE, seamless LLM/text-to-SQL extensions, and 40+ database connectors.
 
-- **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+- **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
   *License: AGPL-3.0* | The simplest, fastest open-source BI and self-service analytics tool. Offers visual Query Builder for non-technical users, Metabot AI natural language querying, and instant single-container deployment.
 
-- **[MindsDB](https://github.com/mindsdb/mindsdb)** [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social&color=white)](https://github.com/mindsdb/mindsdb/stargazers)  
+- **[MindsDB](https://github.com/mindsdb/mindsdb)** [![GitHub_Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social&color=white)](https://github.com/mindsdb/mindsdb/stargazers)  
   *License: GPL-3.0* | AI platform that connects enterprise databases directly to AI/LLM models, allowing developers to query structured and unstructured data with natural language, build conversational AI agents, and trigger predictive automations.
 
-- **[Redash](https://github.com/getredash/redash)** [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
+- **[Redash](https://github.com/getredash/redash)** [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
   *License: BSD-2-Clause* | Popular open-source BI platform designed to enable teams to query, visualize, and collaborate on data with built-in SQL editor, automated alert triggers, and REST APIs for AI copilot integrations.
 
-- **[DataEase](https://github.com/dataease/dataease)** [![GitHub stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers)  
+- **[DataEase](https://github.com/dataease/dataease)** [![GitHub_Stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers)  
   *License: GPL-3.0* | Open-source data visualization analysis tool that helps users quickly analyze data and gain business insights through an intuitive drag-and-drop dashboard interface with AI copilot capabilities.
 
-- **[PandasAI](https://github.com/Sinaptik-AI/pandas-ai)** [![GitHub stars](https://img.shields.io/github/stars/Sinaptik-AI/pandas-ai?style=social&color=white)](https://github.com/Sinaptik-AI/pandas-ai/stargazers)  
+- **[PandasAI](https://github.com/Sinaptik-AI/pandas-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/Sinaptik-AI/pandas-ai?style=social&color=white)](https://github.com/Sinaptik-AI/pandas-ai/stargazers)  
   *License: MIT* | Conversational AI platform and Python library that empowers users to talk to their dataframes and SQL databases in natural language, generating plots, statistical summaries, and pipeline insights automatically.
 
-- **[Vanna](https://github.com/vanna-ai/vanna)** [![GitHub stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social&color=white)](https://github.com/vanna-ai/vanna/stargazers)  
+- **[Vanna](https://github.com/vanna-ai/vanna)** [![GitHub_Stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social&color=white)](https://github.com/vanna-ai/vanna/stargazers)  
   *License: MIT* | Highly accurate open-source Python-based RAG (Retrieval-Augmented Generation) framework for Text-to-SQL generation. Trains on DDL, documentation, and SQL queries to deliver hallucination-free database answers.
 
-- **[Cube.js](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
+- **[Cube.js](https://github.com/cube-js/cube)** [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
   *License: Apache-2.0* | Universal open-source semantic layer for AI agents and headless BI. Provides centralized data modeling, pre-aggregations, access control, and dynamic SQL generation for LLMs.
 
-- **[Wren AI](https://github.com/Canner/WrenAI)** [![GitHub stars](https://img.shields.io/github/stars/Canner/WrenAI)](https://github.com/Canner/WrenAI/stargazers)  
+- **[Wren AI](https://github.com/Canner/WrenAI)** [![GitHub_Stars](https://img.shields.io/github/stars/Canner/WrenAI)](https://github.com/Canner/WrenAI/stargazers)  
   *License: Apache-2.0* | Open-source SQL AI Agent designed for data teams. Bridges natural language questions with relational databases via an intelligent semantic engine, automated schema discovery, and hallucination guardrails.
 
-- **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
+- **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
   *License: MIT* | Code-driven Business Intelligence tool that combines markdown, SQL, and reactive visualization components into version-controlled, lightning-fast, and reproducible data reports.
 
-- **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
+- **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub_Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
   *License: MIT* | Open-source BI platform natively coupled with dbt (data build tool). Treats dbt as the definitive semantic layer, enabling self-serve AI analytics without duplicating metric definitions.
 
-- **[RATH](https://github.com/Kanaries/Rath)** [![GitHub stars](https://img.shields.io/github/stars/Kanaries/Rath?style=social&color=white)](https://github.com/Kanaries/Rath/stargazers)  
+- **[RATH](https://github.com/Kanaries/Rath)** [![GitHub_Stars](https://img.shields.io/github/stars/Kanaries/Rath?style=social&color=white)](https://github.com/Kanaries/Rath/stargazers)  
   *License: AGPL-3.0* | Next-generation augmented analytics and automated exploratory data analysis (EDA) platform with autonomous causal discovery and generative AI data visualization.
 
-- **[Knowage](https://github.com/KnowageLabs/Knowage-Server)** [![GitHub stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
+- **[Knowage](https://github.com/KnowageLabs/Knowage-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
   *License: AGPL-3.0* | Comprehensive enterprise open-source business intelligence suite combining traditional reporting, cockpit dashboards, predictive models, and self-service analytics.
 
-- **[Zaturn](https://github.com/kdqed/zaturn)** [![GitHub stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
+- **[Zaturn](https://github.com/kdqed/zaturn)** [![GitHub_Stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
   *License: MIT* | Open-source AI-powered data analyst running as a Model Context Protocol (MCP) server for Claude and Cursor. Connects to SQLite, PostgreSQL, DuckDB, MySQL, and Parquet files with zero external data exfiltration.
 
-- **[Orion Data Analyst](https://github.com/gavrielhan/orion-data-analyst)** [![GitHub stars](https://img.shields.io/github/stars/gavrielhan/orion-data-analyst?style=social&color=white)](https://github.com/gavrielhan/orion-data-analyst/stargazers)  
+- **[Orion Data Analyst](https://github.com/gavrielhan/orion-data-analyst)** [![GitHub_Stars](https://img.shields.io/github/stars/gavrielhan/orion-data-analyst?style=social&color=white)](https://github.com/gavrielhan/orion-data-analyst/stargazers)  
   *License: MIT* | Autonomous AI data analyst agent powered by Google Gemini and LangGraph. Connects to BigQuery, performs self-healing SQL retries, automated RFM segmentation, and safety validation (blocks DROP/DELETE).
 
 ---
@@ -157,7 +157,7 @@ Contributions are warmly welcomed! Help make this the most up-to-date and author
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive branch: `git checkout -b add-tool-name`.
-3. 📝 Add or update an entry in [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Powered-Analytics-Platform/README.md) following the existing tabular or open-source list format (include specific pricing, free tier limits, star badges, and links).
+3. 📝 Add or update an entry in [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Powered-Analytics-Platform/README.md) following the existing tabular or open-source list format (include specific pricing, free tier limits, Stars_Badges, and links).
 4. 🚀 Submit a Pull Request with a short summary of the product or project.
 
 ---
